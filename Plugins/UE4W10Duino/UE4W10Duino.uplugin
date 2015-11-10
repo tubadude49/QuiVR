@@ -1,0 +1,22 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "FriendlyName": "UE4W10Duino",
+    "VersionName": "1.0",
+    "CreatedBy": "FusionLabz",
+    "EngineVersion": "4.9.2",
+    "Description": "UE4W10Duino - Plugin that communicates between UE4 and Arduino. W10 compatibility by Maarten Braaksma",
+    "Category": "Arduino",
+    "EnabledByDefault": true,
+    "CanContainContent": false,
+    "IsBetaVersion": true,
+    "Installed": false,
+
+    "Modules": [
+        {
+            "Name": "UE4W10Duino",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
