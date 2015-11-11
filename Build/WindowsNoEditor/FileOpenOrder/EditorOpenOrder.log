@@ -1,0 +1,1049 @@
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/QuiVR.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 3
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 4
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 7
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 8
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 9
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 10
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 11
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 12
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 13
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 14
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 15
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 16
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 17
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 18
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 19
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 20
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 21
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 22
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 23
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 24
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 25
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 26
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 27
+"../../../Engine/Plugins/Kinect4Unreal v1.1/Kinect4Unreal.uplugin" 28
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 29
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 30
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 31
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 32
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 33
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 34
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 35
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 36
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 37
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 38
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 39
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 40
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 41
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/IOSFlurry/IOSFlurry.uplugin" 42
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 43
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 44
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 45
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 46
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 47
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 48
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 49
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 50
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 51
+"../../../Engine/Plugins/Runtime/LeapMotionController/LeapMotionController.uplugin" 52
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 53
+"../../../Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin" 54
+"../../../Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin" 55
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 56
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 57
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 58
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 59
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 60
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 61
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 62
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 63
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 64
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 65
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 66
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 67
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Plugins/UE4W10Duino/UE4W10Duino.uplugin" 68
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Plugins/VictoryPlugin/VictoryPlugin.uplugin" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 72
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 73
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 74
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 75
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/Manifest.ini" 76
+"../../../Engine/Config/Base.ini" 77
+"../../../Engine/Config/BaseEngine.ini" 78
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Config/DefaultEngine.ini" 79
+"../../../Engine/Config/Windows/WindowsEngine.ini" 80
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Engine.ini" 81
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 82
+"../../../Engine/Config/BaseGame.ini" 83
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Config/DefaultGame.ini" 84
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Game.ini" 85
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 86
+"../../../Engine/Config/BaseInput.ini" 87
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Config/DefaultInput.ini" 88
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Input.ini" 89
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 90
+"../../../Engine/Config/BaseEditor.ini" 91
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Config/DefaultEditor.ini" 92
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Editor.ini" 93
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 94
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 95
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Config/DefaultEditorPerProjectUserSettings.ini" 96
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 97
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 98
+"../../../Engine/Config/BaseEditorSettings.ini" 99
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorSettings.ini" 100
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 101
+"../../../Engine/Config/BaseEditorLayout.ini" 102
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorLayout.ini" 103
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 104
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 105
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorKeyBindings.ini" 106
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 107
+"../../../Engine/Config/BaseCompat.ini" 108
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Compat.ini" 109
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 110
+"../../../Engine/Config/BaseLightmass.ini" 111
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Lightmass.ini" 112
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 113
+"../../../Engine/Config/BaseScalability.ini" 114
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/Scalability.ini" 115
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 116
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/GameUserSettings.ini" 117
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 118
+"../../../Engine/Config/BaseDeviceProfiles.ini" 119
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/DeviceProfiles.ini" 120
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 121
+"../../../Engine/Config/ConsoleVariables.ini" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 128
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 129
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 130
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 131
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Editor/en/Editor.locres" 132
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 133
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Keywords/en/Keywords.locres" 134
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Category/en/Category.locres" 135
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/ToolTips/en/ToolTips.locres" 136
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/PropertyNames/en/PropertyNames.locres" 137
+"C:/Program Files/Epic Games/4.9/Engine/Content/Localization/Engine/en/Engine.locres" 138
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 139
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 140
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 141
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 142
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 143
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 144
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 145
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 146
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 147
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CommonViewUniformBuffer.usf" 148
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 149
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 150
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 151
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 152
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 153
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 154
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 155
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 156
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 157
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 158
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 159
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 160
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 161
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrectionCommon.usf" 162
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 163
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 164
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceFieldShared.usf" 165
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 166
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 167
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PaniniProjection.usf" 168
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/EyeAdaptationCommon.usf" 169
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 170
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 171
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 172
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 173
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 174
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 175
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 176
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 177
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 178
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 179
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 180
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 181
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 182
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 183
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 184
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 185
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 186
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 187
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 188
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 189
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 190
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 191
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 192
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeGrassWeight.usf" 193
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 194
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 195
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 196
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 197
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceRayCast.usf" 198
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 199
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 200
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 201
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 202
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 203
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ACES.usf" 204
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 205
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 206
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 207
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 208
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 209
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 210
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 211
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 212
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 213
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 214
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 215
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 216
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 217
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FastMath.usf" 218
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVelocityFlatten.usf" 219
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MorpheusInclude.usf" 220
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 221
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 222
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 223
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 224
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 225
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 226
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 227
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 228
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHierarchical.usf" 229
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 230
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 231
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 232
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 233
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 234
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 235
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCircleDOF.usf" 236
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CircleDOFCommon.usf" 237
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 238
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 239
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeDOF.usf" 240
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 241
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 242
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 243
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 244
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 245
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 246
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadingModels.usf" 247
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 248
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 249
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 250
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 251
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 252
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 253
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 254
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityCommon.usf" 255
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 256
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 257
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 258
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 259
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 260
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 261
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 262
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 263
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 264
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 265
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 266
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelTree.usf" 267
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 268
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelMaterialShared.usf" 269
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 270
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 271
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 272
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 273
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 274
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 275
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 276
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 277
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 278
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 279
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 280
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 281
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 282
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 283
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 284
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 285
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 286
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 287
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 288
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 289
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 290
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 291
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 292
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 293
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 294
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 295
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 296
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPacking.usf" 297
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 298
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LpvDirectionalOcclusion.usf" 299
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 300
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 301
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 302
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 303
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 304
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 305
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 306
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightfieldLighting.usf" 307
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowingShared.usf" 308
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 309
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 310
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceField.usf" 311
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 312
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 313
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 314
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 315
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 316
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 317
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 318
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 319
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 320
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 321
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 322
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 323
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 324
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 325
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 326
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldScreenGridLighting.usf" 327
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingPost.usf" 328
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldGlobalIllumination.usf" 329
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 330
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 331
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 332
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 333
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/EvaluateSurfelMaterial.usf" 334
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ConvertToUniformMesh.usf" 335
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 336
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 337
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ForEachLight.usf" 338
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 339
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 340
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 341
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 342
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 343
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 344
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 345
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 346
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 347
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 348
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MediaShaders.usf" 349
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 350
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 351
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 352
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 353
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 354
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 355
+"C:/Program Files/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 356
+"../../../Engine/Config/Android/AndroidEngine.ini" 357
+"../../../Engine/Config/IOS/IOSEngine.ini" 358
+"../../../Engine/Config/Linux/LinuxEngine.ini" 359
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc" 360
+"../../../Engine/DerivedDataCache/Compressed.ddp" 361
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 362
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 363
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 365
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 368
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 370
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 371
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 374
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 375
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 377
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 378
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 379
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 380
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 381
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 382
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 383
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 384
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/TemplateDefs.ini" 385
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 386
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/GameplayTags.ini" 387
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 388
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 389
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 390
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 391
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 392
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 393
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 394
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 395
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 396
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 397
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 398
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 399
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 400
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 401
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 402
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 403
+"../../../Engine/Content/EngineResources/Black.uasset" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 405
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 407
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 409
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 410
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 412
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 413
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 414
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 415
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 416
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 417
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 418
+"../../../Engine/Content/EngineSounds/Master.uasset" 419
+"../../../Engine/Content/EngineSounds/Music.uasset" 420
+"../../../Engine/Content/EngineSounds/SFX.uasset" 421
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 422
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 423
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 424
+"../../../Engine/Content/EngineSounds/Voice.uasset" 425
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 427
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 428
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 429
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 430
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 431
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 432
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 433
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 434
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 435
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 436
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US.res" 437
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 438
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 439
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 440
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 441
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 442
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 443
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 444
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 445
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 446
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 447
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 448
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 449
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 450
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 451
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 452
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/SourceControlSettings.ini" 453
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 454
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Config/Windows/SourceControlSettings.ini" 455
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 456
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 457
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 458
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 459
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 460
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 461
+"../../../Engine/Content/BasicShapes/Cube.uasset" 462
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 463
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 464
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 465
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 466
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 467
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 468
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 469
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 470
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 471
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 472
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 473
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 474
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 475
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/CachedAssetRegistry.bin" 476
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/5a00431r_Auto3.uasset" 477
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/MainMenu_Auto1.uasset" 478
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/MainMenu_Auto2.uasset" 479
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/MainMenu_Auto3.uasset" 480
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/MainMenu_Auto4.uasset" 481
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/MainMenu_Auto6.uasset" 482
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/MainMenu_Auto7.uasset" 483
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/range_Auto4.uasset" 484
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/South_Sandy_Shooting_Range_Auto7.uasset" 485
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset" 486
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset" 487
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto2.uasset" 488
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap" 489
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap" 490
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap" 491
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap" 492
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap" 493
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap" 494
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Autosaves/Game/FirstPersonBP/Maps/UEDPCFirstPersonExampleMap.umap" 495
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Cooked/WindowsNoEditor/QuiVR/CookedIniVersion.txt" 496
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 497
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 498
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 499
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 500
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 501
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 502
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 503
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 504
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 505
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 506
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 507
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 508
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 509
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 510
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 511
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 512
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 513
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 514
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 515
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 516
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 517
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 518
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 519
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 520
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 521
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 522
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 523
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 524
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 525
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 526
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 527
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 528
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 529
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 530
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 531
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 532
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 533
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 534
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 535
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 536
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 537
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 538
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 539
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 540
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 541
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 542
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 543
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 544
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 545
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 546
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 547
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 548
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 549
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 550
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 551
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 552
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 553
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 554
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 555
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorTutorial.uasset" 556
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 557
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 558
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 559
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 560
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 561
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 562
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 563
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 564
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 565
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 566
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 567
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 568
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 569
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 570
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 571
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 572
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 573
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 574
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 575
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 576
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 577
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 578
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 579
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 580
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 581
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 582
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 583
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 584
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Water_M.uasset" 585
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 586
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 587
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 588
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 589
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_MacroVariation.uasset" 590
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 591
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 592
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 593
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 594
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 595
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 596
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 597
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 598
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 599
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 600
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 601
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 602
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 603
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 604
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Basic_Wall.uasset" 605
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Basic_Floor.uasset" 606
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_AssetPlatform.uasset" 607
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 608
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 609
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 610
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 611
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 612
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 613
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_Burst.uasset" 614
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Burst_M.uasset" 615
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/P_Steam_Lit.uasset" 616
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 617
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 618
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 619
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 620
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 621
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 622
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 623
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 624
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 625
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 626
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 627
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Gradinet_01.uasset" 628
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 629
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 630
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 631
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 632
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 633
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 634
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 635
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 636
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 637
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 638
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 639
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 640
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 641
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 642
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 643
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 644
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 645
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 646
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 647
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 648
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 649
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 650
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 651
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 652
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 653
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Lamp.uasset" 654
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Lamp_M.uasset" 655
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Lamp_N.uasset" 656
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 657
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Steam01_Cue.uasset" 658
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Steam01.uasset" 659
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 660
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 661
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Fire_Sparks01.uasset" 662
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/P_Sparks.uasset" 663
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 664
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 665
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_Spark.uasset" 666
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Spark_Core.uasset" 667
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 668
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Smoke01_Cue.uasset" 669
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Smoke01.uasset" 670
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/P_Smoke.uasset" 671
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 672
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Fire01_Cue.uasset" 673
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Fire01.uasset" 674
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/P_Fire.uasset" 675
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 676
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 677
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 678
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 679
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Water_N.uasset" 680
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 681
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Explosion_Cue.uasset" 682
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Explosion01.uasset" 683
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Explosion02.uasset" 684
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/P_Explosion.uasset" 685
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 686
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 687
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 688
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 689
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Starter_Wind06.uasset" 690
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Starter_Wind05.uasset" 691
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 692
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Starter_Music01.uasset" 693
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Starter_Birds01.uasset" 694
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 695
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Light02_Cue.uasset" 696
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Light02.uasset" 697
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Light01_Cue.uasset" 698
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Light01.uasset" 699
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Collapse_Cue.uasset" 700
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Collapse01.uasset" 701
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Audio/Collapse02.uasset" 702
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 703
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 704
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 705
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 706
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_500x500.uasset" 707
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_400x400.uasset" 708
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_400x300.uasset" 709
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Wall_400x200.uasset" 710
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 711
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Pillar_50x500.uasset" 712
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Architecture/Floor_400x400.uasset" 713
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_22D651A04D9C153E5FBC27A5A140C08__11898292A2331A26E7488080F79086F15C534C8B.udd" 714
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_22D651A04D9C153E5__2F70F665662D1B015A3D2BED2D23530131E4537E.udd" 715
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/Geometry/Meshes/TemplateFloor.uasset" 716
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/Geometry/Meshes/CubeMaterial.uasset" 717
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 718
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/Geometry/Meshes/1M_Cube.uasset" 719
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/zippo_D.uasset" 720
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_41F61FED4C30F9FEED98678CE2FD1__539A73EA1CD5964537106A925FC56AD7648C5FC2.udd" 721
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_41F61FED4C30F9FEED98678CE2FD1__47305343ABBCABC457E83D2D6DF3A50D0080E406.udd" 722
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_41F61FED4C30F9FEED98678CE2FD1__9A02A8F65730AE4F61ACF39FB283F28051040ACC.udd" 723
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_41F61FED4C30F9FEED98678CE2FD1__FBFF106ADD5CF21C9D3B2A8062DC92EA83E2DC11.udd" 724
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_41F61FED4C30F9FEED98678CE2FD1__619716DB9CC8CDAFD9121046A6DC773E239F875E.udd" 725
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 726
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 727
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 728
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 729
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 730
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 731
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 732
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 733
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 734
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 735
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 736
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 737
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 738
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 739
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 740
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 741
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 742
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 743
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 744
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 745
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/South_Sandy_Shooting_Range.uasset" 746
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_000EC66C472B6E8E857C77A87FD4A__A68A01B7923B2A0295C2CA32B27FA8F582F09E88.udd" 747
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 748
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 749
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 750
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_EndJump.uasset" 751
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 752
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 753
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 754
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/range.uasset" 755
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_DCCEBEBD446D2C656D0639B65F1444A__EA7957984AF0069E8992937E286F865AFDB36EE2.udd" 756
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_RockMesh_N.uasset" 757
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Frame_M.uasset" 758
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 759
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 760
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 761
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 762
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Meshes/BaseMaterial.uasset" 763
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 764
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 765
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 766
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Plane.uasset" 767
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 768
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 769
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Pipe.uasset" 770
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 771
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 772
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Cube.uasset" 773
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Cone.uasset" 774
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_TableRound.uasset" 775
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_TableRound_M.uasset" 776
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_TableRound_N.uasset" 777
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 778
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Statue_M.uasset" 779
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Statue_N.uasset" 780
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Shaders/tmp/B29F882A4A59AF8F5D33B289E4449528/0/WorkerOutputOnly.out" 781
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Shaders/tmp/B29F882A4A59AF8F5D33B289E4449528/3/WorkerOutputOnly.out" 782
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Shaders/tmp/B29F882A4A59AF8F5D33B289E4449528/1/WorkerOutputOnly.out" 783
+"C:/Users/Qui VR/Documents/Unreal Projects/QuiVR/Intermediate/Shaders/tmp/B29F882A4A59AF8F5D33B289E4449528/2/WorkerOutputOnly.out" 784
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/bow2.uasset" 785
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/Bow_recurve_001.uasset" 786
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/bowrecurve_D.uasset" 787
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/zippo_001.uasset" 788
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFDC5D30BA__697F4EE29CB73A69B5A9507595EFD88826F4FF80.udd" 789
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUFDC5D30BA__D3C83423EC5B7898B58106D1BC61F43871FD8D56.udd" 790
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/2/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_3B__2391D90E2DCCA8F8E761FBAB80F17CDE4A046E3C.udd" 791
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_56FB934C496F4ED05__FD77ADA826DB8C154D20AE3C8C056CAFA9A5C977.udd" 792
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_56FB934C496F4ED05F5577A3CFB7C1B__1FC8922292CB0503733C500961C120F6D3228619.udd" 793
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF32579100__8043F8A2CAECD001C0403E23C3BC958AAA0A8F5F.udd" 794
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF32579100__27D0554A0AF0CB79D242380432A720CBED8A180F.udd" 795
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/Arrow_N.uasset" 796
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_F5987DA34C1388B8865B1BA03C45D128___0AB7698F04044E365B3491E7BD42AD6501606101.udd" 797
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_F5987DA34C1388B8865B1BA03C45D128___0B0391A5B39AC5FED77CB95812B9DBF56D52E9BA.udd" 798
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_F5987DA34C1388B8865B1BA03C45D128___89278A49900FD08FB661F3ECC097BC4640357593.udd" 799
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_F5987DA34C1388B8865B1BA03C45D128___709C85790D61BF62595C0546794AC74114ED6258.udd" 800
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_DoorFrame.uasset" 801
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Frame.uasset" 802
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Frame_N.uasset" 803
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Door.uasset" 804
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Glass.uasset" 805
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Door.uasset" 806
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Door_M.uasset" 807
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Door_N.uasset" 808
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Couch.uasset" 809
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Chair.uasset" 810
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Chair_M.uasset" 811
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Chair_N.uasset" 812
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_CornerFrame.uasset" 813
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Chair.uasset" 814
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Bush.uasset" 815
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Bush.uasset" 816
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Bush_D.uasset" 817
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Bush_N.uasset" 818
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/MaterialSphere.uasset" 819
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 820
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 821
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/Arrow_D.uasset" 822
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D62A83C4589D4708EB48591EE7CD__39381580FF416D634BE9D653A2CE39CB87C35C12.udd" 823
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D62A83C4589D4708EB48591EE7CD__DBD5B73A10CE1AD3E37108AB968D4C9E203EF3F3.udd" 824
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D62A83C4589D4708EB48591EE7CD__F7767486EB782FD0F048673918407FA23F16F6A0.udd" 825
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D62A83C4589D4708EB48591EE7CD__DC5310B36C28D41E4C5AD553546BA5EB8F2740E0.udd" 826
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Maps/Minimal_Default.umap" 827
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 828
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 829
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 830
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 831
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 832
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 833
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 834
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 835
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 836
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 837
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 838
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 839
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 840
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Copper.uasset" 841
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 842
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Statue.uasset" 843
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Statue.uasset" 844
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_TableRound.uasset" 845
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 846
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 847
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Sphere.uasset" 848
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Shelf.uasset" 849
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Shelf_M.uasset" 850
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Shelf_N.uasset" 851
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_Rock.uasset" 852
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 853
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_RockMesh_M.uasset" 854
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 855
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 856
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_WindowFrame.uasset" 857
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Stairs.uasset" 858
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Shelf.uasset" 859
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_Rock.uasset" 860
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_PillarFrame300.uasset" 861
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_PillarFrame.uasset" 862
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 863
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Props/SM_GlassWindow.uasset" 864
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 865
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 866
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 867
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/MainMenu.uasset" 868
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/MainMenu.uasset" 869
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 870
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/arrow.uasset" 871
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/arrow2.uasset" 872
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/2/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF2E1B066C__8C6D3C4F6F86B57F021A6E92B1C80FCC7930BA09.udd" 873
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/6/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF2E1B066C__3529A1D4E05E63D0E65F4560A5F90CEFE9B8FFC0.udd" 874
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_26__1964E21A340BE9B100134C055A228DA9E893AF30.udd" 875
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_64530C44416DD2D24__D0810538FC1CE28AB5634CEE3F2C22D62D0FA224.udd" 876
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_64530C44416DD2D24EA6D69EFD59C0D__61B74F07775B4C78428DE1A7AF7938C8726B8310.udd" 877
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 878
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C29EF714B834198566672874AF1B__F02F232B56E989D92D54BA4C385BD52463281014.udd" 879
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C29EF714B834198566672874AF1B__5D27ACA7C2EA10A72B593971A1D69B865BBD5A01.udd" 880
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C29EF714B834198566672874AF1B__143110837C4F39B298830699B9C7EB48070D1F17.udd" 881
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C29EF714B834198566672874AF1B__A22571D763BB94CF8A19EE6650EE18831056DDEA.udd" 882
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0C29EF714B834198566672874AF1B__983931F4C3FCD1F9D8D536F565EA2EA3A3D17A71.udd" 883
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 884
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Trim.uasset" 885
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Torus.uasset" 886
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 887
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 888
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_StartJump.uasset" 889
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Animations/FirstPerson_LoopJump.uasset" 890
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/5a00431r.uasset" 891
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EC33D865473D927DB45B3C86CA55C__79459B66AD2BEDEEA5C009FA35D93E32F2E71E65.udd" 892
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 893
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 894
+"../../../Engine/Content/Maps/Entry.umap" 895
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 896
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 897
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 898
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 899
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 900
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Wood_Oak.uasset" 901
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 902
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_DBBD80444B41D4C2A54D6DB783B63621__1_0_13123_0.udd" 903
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_0278C3EA49DEBE59538E5EAA14EC7053__1_0_13123_0.udd" 904
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/4/REFL_ENC_96DFC022836B48889143E9DF484C3296_74DAE12A472BADC282FE5D97DF70E102.udd" 905
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_72DC3FC44FD8C50D3F9D1C8E969F485F_0__2B6CD3276BBEA36AFD7A732ECF481D95B263D229.udd" 906
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_72DC3FC44FD8C50D3F9D1C8E969F485F_0__CCB2FA015DCB74A4891A6BC307507EAFF0EA8E64.udd" 907
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_72DC3FC44FD8C50D3F9D1C8E969F485F_0__FC4B8FEC5666D284BC868218DD799416C021F415.udd" 908
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_72DC3FC44FD8C50D3F9D1C8E969F485F_0__5A28522E5EC92152E7E27AAD016D0D23BE9CC072.udd" 909
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_72DC3FC44FD8C50D3F9D1C8E969F485F_0__E554FE90525B853B11A03E53CB0CC81E6C0711AF.udd" 910
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_72DC3FC44FD8C50D3F9D1C8E969F485F_0__ED8A453C77A77C32FBEA000F177E3C3BADD740C6.udd" 911
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_AD48DD7E41D4B31150EF50954554943E_0__3DB894929DE6E7731EDD2F8035339B9EDCCB31BB.udd" 912
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8899C65D4A6D0CD42B33089638DE7AA9_0__687C0B859FA22A1025799F1719118C7D28115E51.udd" 913
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8899C65D4A6D0CD42B33089638DE7AA9_0__E698545AE22050F4A461B8B1F3A62BCCE6FB2F4D.udd" 914
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A262D6DA43B8169D983A34BE1FFE8BA5_0__2CC49ACEDEB1A2D2C05C2D41C991B21E21EA2BAD.udd" 915
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8899C65D4A6D0CD42B33089638DE7AA9_0__7A97C5278CD7D7B075B372C5BCB74F66ADF5A183.udd" 916
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A262D6DA43B8169D983A34BE1FFE8BA5_0__0FA7CC333416D559ADEE286443EF6E908AD80D5B.udd" 917
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8899C65D4A6D0CD42B33089638DE7AA9_0__30DBEA206418D6533B547D168373917CB8F739FC.udd" 918
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8899C65D4A6D0CD42B33089638DE7AA9_0__DA6EAD3FB5CF4553D5E6F7FD1CF45B33094C2443.udd" 919
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_8899C65D4A6D0CD42B33089638DE7AA9_0__EFD6DFCDC435F88E20E556722BB2313DE9BCB595.udd" 920
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4CF217A04AD7FF33E347E2A97F287F71_0__E8F51093273978F5E1FC763A597EC7571C42E804.udd" 921
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_28E4E9044CE266973FAC929CD8FA32CC_0__C88B6E32A8B36ABECF3191C742B88B0C23A0E998.udd" 922
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_28E4E9044CE266973FAC929CD8FA32CC_0__F01489EA6ECBFD2BF40E14A1C7F8E9D18B9EC68A.udd" 923
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_28E4E9044CE266973FAC929CD8FA32CC_0__165C7A618D9D1C7E149F13A50B40AB290C08582C.udd" 924
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A262D6DA43B8169D983A34BE1FFE8BA5_0__B3C1CEF7794629A70C7F8E7B8B765B539602BA2E.udd" 925
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4CF217A04AD7FF33E347E2A97F287F71_0__7A58935D70E7E706B350501864FB0C0AEFE40D4A.udd" 926
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_28E4E9044CE266973FAC929CD8FA32CC_0__DB5F596CD28FB821EF4EB03865C6A507AB79ACB6.udd" 927
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A262D6DA43B8169D983A34BE1FFE8BA5_0__A64078FC14BAB0F1774775AA59C0601A8FFE88F0.udd" 928
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A262D6DA43B8169D983A34BE1FFE8BA5_0__AC3C438AE03CA097A255012AC0B62D6F4F3C7E62.udd" 929
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_28E4E9044CE266973FAC929CD8FA32CC_0__13C84970EC0BD47E1DAFA61D9A8CFCD61AF40F74.udd" 930
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A262D6DA43B8169D983A34BE1FFE8BA5_0__F14832F33D2CA8C9A83228F3D9C81DD36310DCA8.udd" 931
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_28E4E9044CE266973FAC929CD8FA32CC_0__8EF2941B965BC24FF8497AE1DC0518A908551662.udd" 932
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4CF217A04AD7FF33E347E2A97F287F71_0__4733D5B2CECB1CCCA8BC32973D50072D3E234B51.udd" 933
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4CF217A04AD7FF33E347E2A97F287F71_0__75058E31B4A51ED0706B5A4E358C101083746EC5.udd" 934
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4CF217A04AD7FF33E347E2A97F287F71_0__951753CBF78C0757C611879C740ACBEDD98DDB3D.udd" 935
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4CF217A04AD7FF33E347E2A97F287F71_0__9E857CD8C8334844D79D1FBEB977127A66A1E55F.udd" 936
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 937
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 938
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 939
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 940
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 941
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 942
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 943
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 944
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 945
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 946
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 947
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 948
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__A11E6ED288A5C9C5E553CE43FE45728ABBEF933A.udd" 949
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__702B3488C4A8118A1FF835D4ACE6AC94E3674012.udd" 950
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__BE98BA959FA50D699EF6F3DC8801CC3DD788BC4B.udd" 951
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__DE0BDD4890599A154A315ED5EACCADF407B25B03.udd" 952
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__345F7BA2E497068D5A9EEFC20381BFABD9602478.udd" 953
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__8C2D5A49FB9B8D4C79D135B7272B0836F76DC28A.udd" 954
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 955
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 956
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Ground_Moss.uasset" 957
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 958
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 959
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 960
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 961
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 962
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Ground_Grass.uasset" 963
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 964
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 965
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 966
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 967
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 968
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 969
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 970
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 971
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/Blueprints/Arrow_Actor.uasset" 972
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPersonBP/FirstPersonOverview.uasset" 973
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 974
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C418824E4EA51B7ABCD164BCEEBBFBB__02FD0742DF20FAEDB6B6FB9500594A1EDA8BE59C.udd" 975
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C418824E4EA51B7AB__369545BFB03A089F176AE1871AF20CCFA46A288B.udd" 976
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Maps/Advanced_Lighting.umap" 977
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 978
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 979
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Tube.uasset" 980
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 981
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 982
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 983
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 984
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 985
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 986
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Wood_Pine.uasset" 987
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 988
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 989
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 990
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 991
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 992
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 993
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 994
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Water_Ocean.uasset" 995
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Water_Lake.uasset" 996
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Tech_Panel.uasset" 997
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 998
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 999
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1000
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1001
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1002
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1003
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1004
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1005
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1006
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1007
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1008
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1009
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1010
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1011
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1012
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1013
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1014
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1015
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1016
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1017
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1018
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1019
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1020
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1021
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1022
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1023
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1024
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1025
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1026
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1027
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1028
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Content/StarterContent/Maps/StarterMap.umap" 1029
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1030
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1031
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 1032
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1033
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1034
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1035
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1036
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1037
+"../../../../../../Users/Qui VR/Documents/Unreal Projects/QuiVR/Saved/Stats/2015.11.10-13.11.01Stats.csv" 1038
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 1039
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 1040
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 1041
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 1042
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 1043
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 1044
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/AUDIO_0002_0000_OGG_0001_45DA31D24952A30D9D59C58355781501.udd" 1045
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/AUDIO_0002_0000_OGG_0001_8D7626FF43F2E7CB0FFEF1819DF93FE0.udd" 1046
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/AUDIO_0002_0000_OGG_0001_B847AAD74080418C90B2E9968E18B4E9.udd" 1047
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/9/AUDIO_0002_0000_OGG_0001_1FFCDDAF446F0A5DB5CD53804F454EE7.udd" 1048
+"C:/Users/Qui VR/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/AUDIO_0002_0000_OGG_0001_A6E12C614B66182215E77BB91A3CB1BF.udd" 1049
