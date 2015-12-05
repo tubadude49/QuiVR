@@ -1,1 +1,2 @@
-GyX=36|GyY=233|GyZ=213|flex0=530|flex1=549|flex2=571
+|Fire=0
+|Yaw=-105.13|Pitch=-28.90|Roll=2.14|flex1=541|flex2=568
