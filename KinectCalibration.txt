@@ -1,1 +1,1 @@
-Hand distance rest: 0.0 hand distance draw: 0.0
+Hand distance rest: 11.869866 hand distance draw: 42.223076
