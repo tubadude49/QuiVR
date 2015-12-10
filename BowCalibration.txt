@@ -1,1 +1,1 @@
-min force:20.0|max force:30.0|min distacne:11.0|max distance:20.0
+min force:20.0|max force:29.0|min distacne:21.0|max distance:28.0|undrawn distance:9.0

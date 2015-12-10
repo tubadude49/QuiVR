@@ -1,1 +1,1 @@
-flex1diff: 0|flex2diff: 0|CalGyX:-1.55|CalGyY:9.620001|CalGyZ:73.530006|flex1:0|flex2:1023
+flex1diff: 0|flex2diff: 162|CalGyX:-6.745|CalGyY:-2.689|CalGyZ:27.282001|flex1:0|flex2:574
